@@ -1,9 +1,10 @@
 body{
-	background-color: "Yellow";
+	background-color: rgb(255, 249, 0);
 }
 h1{
-	color:"Blue";
+	color:rgb(9, 0, 254);
+	font-family: "Monotype Corsiva";
 }
 h2{
-	color:"Red";
+	color:rgb(252, 0, 19);
 }
